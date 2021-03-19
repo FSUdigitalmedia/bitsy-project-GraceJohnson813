@@ -1,6 +1,6 @@
-# The Name of Your Game
+# Road Trip
 
-A short description of your game
+A small excerpt from a trip with loved ones.
 
 ---
 
